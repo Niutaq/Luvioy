@@ -1,5 +1,5 @@
 # Luvioy
-**AI Room Designer – From scan to stunning interiors.**
+Room Designer – From scan to stunning interiors.
 
 ## About
 Luvioy is an **AI-powered Room Designer**.  
@@ -7,14 +7,14 @@ Luvioy is an **AI-powered Room Designer**.
 - Software analyzes and suggests optimized layouts.  
 - Visualize interiors in 3D with smart styling.  
 
-## 🛠 Tech Stack
+## Tech Stack
 - Backend: GoLang  
 - AI: NVIDIA APIs + ComfyUI pipelines  
 - Visualization: Three.js / Unreal Engine  
 - Database: PostgreSQL  
 
 ## Vision
-Helping people **transform spaces effortlessly** with AI.
+Helping people **transform spaces into something**.
 
 ---
 
